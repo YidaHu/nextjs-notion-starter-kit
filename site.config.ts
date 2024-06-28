@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Yida Hu',
 
   // open graph metadata (optional)
-  description: 'My Blogs.',
+  description: 'Yida Hu Blogs.',
 
   // social usernames (optional)
   twitter: 'YidaHu',
